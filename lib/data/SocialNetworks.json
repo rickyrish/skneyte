@@ -1,0 +1,25 @@
+{
+    "socialNetwoks" : [
+        { "id" : 1,
+            "image" : "assets/social/nonolive.jpg",
+            "name" : "nonolive",
+            "username" : "Skneyte",
+            "status" : "Activo",
+            "link" : "https://www.nonolive.com/10584387"
+        },
+        { "id" : 2,
+            "image" : "assets/social/facebook-gaming.png",
+            "name" : "Facebook Gamming",
+            "username" : "Skneyte",
+            "status" : "Activo",
+            "link" : "https://www.facebook.com/pages/category/Gaming-Video-Creator/skneyte"
+        },
+        { "id" : 3,
+            "image" : "assets/social/youtube.jpg",
+            "name" : "Youtube",
+            "username" : "Skneyte",
+            "status" : "Activo",
+            "link" : "https://www.youtube.com/channel/UCH1wo6SX7M8stk2LaREfwYg"
+        }
+    ]
+}
